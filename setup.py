@@ -103,6 +103,6 @@ setup(
     package_data={
         '': ['*.jar', '*.json'],
         'config': ['config/*.json'],
-        'thirdlibrary': ['thirdlibrary/*.jar']
+        'thirdlibrary': ['thirdlibrary/*.jar']sdf
     },
 )
